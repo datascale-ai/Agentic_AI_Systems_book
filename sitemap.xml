@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/abbreviations/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/abbreviations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/abbreviations/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/acknowledgements/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/acknowledgements/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/acknowledgements/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/afterword/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/afterword/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/afterword/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_a_terms/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_a_terms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_a_terms/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_b_metrics/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_b_metrics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_b_metrics/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_c_schemas/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_c_schemas/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_c_schemas/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_d_deployment/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_d_deployment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_d_deployment/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_e_config/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_e_config/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_e_config/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_f_security/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_f_security/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_f_security/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_g_failures/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_g_failures/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_g_failures/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_h_reading/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_h_reading/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_h_reading/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/asset_contract/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/asset_contract/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/asset_contract/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/authors/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/authors/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/authors/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/figures_tables/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/figures_tables/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/figures_tables/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/preface/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/preface/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/preface/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/reader_guide/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/reader_guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/reader_guide/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/ch01_agentic_ai_overview/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/ch01_agentic_ai_overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/ch01_agentic_ai_overview/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/ch02_from_llms_to_agents/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/ch02_from_llms_to_agents/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/ch02_from_llms_to_agents/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/ch03_agent_architecture/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/ch03_agent_architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/ch03_agent_architecture/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/ch04_system_lifecycle_design/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/ch04_system_lifecycle_design/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/ch04_system_lifecycle_design/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/ch05_prompt_instruction_hierarchies/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/ch05_prompt_instruction_hierarchies/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/ch05_prompt_instruction_hierarchies/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/ch06_context_structured_outputs/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/ch06_context_structured_outputs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/ch06_context_structured_outputs/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/ch07_model_routing_contracts/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/ch07_model_routing_contracts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/ch07_model_routing_contracts/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/ch08_foundation_model_reasoning/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/ch08_foundation_model_reasoning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/ch08_foundation_model_reasoning/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch09_task_decomposition_planning/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch09_task_decomposition_planning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch09_task_decomposition_planning/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch10_iterative_reasoning_revision/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch10_iterative_reasoning_revision/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch10_iterative_reasoning_revision/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch11_tool_discovery_calling/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch11_tool_discovery_calling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch11_tool_discovery_calling/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch12_action_execution/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch12_action_execution/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch12_action_execution/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch13_action_traces_recovery/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch13_action_traces_recovery/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch13_action_traces_recovery/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/ch14_state_working_memory_context/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/ch14_state_working_memory_context/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/ch14_state_working_memory_context/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/ch15_long_term_memory/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/ch15_long_term_memory/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/ch15_long_term_memory/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/ch16_retrieval_knowledge_agents/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/ch16_retrieval_knowledge_agents/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/ch16_retrieval_knowledge_agents/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/ch17_reflection_adaptation/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/ch17_reflection_adaptation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/ch17_reflection_adaptation/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/ch18_multi_agent_roles/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/ch18_multi_agent_roles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/ch18_multi_agent_roles/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/ch19_multi_agent_communication/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/ch19_multi_agent_communication/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/ch19_multi_agent_communication/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/ch20_collective_reasoning/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/ch20_collective_reasoning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/ch20_collective_reasoning/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/ch21_perception_environment/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/ch21_perception_environment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/ch21_perception_environment/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/ch22_orchestration_runtime/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/ch22_orchestration_runtime/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/ch22_orchestration_runtime/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/ch23_sessions_events_state/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/ch23_sessions_events_state/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/ch23_sessions_events_state/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/ch24_streaming_interrupts/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/ch24_streaming_interrupts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/ch24_streaming_interrupts/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/ch25_multimodal_realtime/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/ch25_multimodal_realtime/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/ch25_multimodal_realtime/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch26_evaluation_methods/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch26_evaluation_methods/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch26_evaluation_methods/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch27_benchmarking_capacity/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch27_benchmarking_capacity/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch27_benchmarking_capacity/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch28_reliability_failure/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch28_reliability_failure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch28_reliability_failure/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch29_security_safety_alignment/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch29_security_safety_alignment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch29_security_safety_alignment/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch30_production_governance/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch30_production_governance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch30_production_governance/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch31_software_knowledge_work/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch31_software_knowledge_work/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch31_software_knowledge_work/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch32_education_healthcare_finance/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch32_education_healthcare_finance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch32_education_healthcare_finance/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch33_enterprise_adoption/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch33_enterprise_adoption/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch33_enterprise_adoption/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch34_capstone_reference_architectures/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch34_capstone_reference_architectures/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch34_capstone_reference_architectures/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch35_open_problems/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch35_open_problems/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch35_open_problems/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/ch36_reference_implementation/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/ch36_reference_implementation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/ch36_reference_implementation/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/ch37_agent_testing/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/ch37_agent_testing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/ch37_agent_testing/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/ch38_regression_fault_injection/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/ch38_regression_fault_injection/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/ch38_regression_fault_injection/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/ch39_deployment_continuous_delivery/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/ch39_deployment_continuous_delivery/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/ch39_deployment_continuous_delivery/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/abbreviations/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/abbreviations/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/abbreviations/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/acknowledgements/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/acknowledgements/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/acknowledgements/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/afterword/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/afterword/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/afterword/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_a_terms/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_a_terms/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_a_terms/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_b_metrics/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_b_metrics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_b_metrics/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_c_schemas/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_c_schemas/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_c_schemas/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_d_deployment/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_d_deployment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_d_deployment/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_e_config/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_e_config/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_e_config/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_f_security/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_f_security/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_f_security/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_g_failures/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_g_failures/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_g_failures/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_h_reading/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/appendix_h_reading/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/appendix_h_reading/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/asset_contract/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/asset_contract/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/asset_contract/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/authors/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/authors/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/authors/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/figures_tables/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/figures_tables/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/figures_tables/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/preface/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/preface/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/preface/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/reader_guide/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/reader_guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/reader_guide/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/ch01_agentic_ai_overview/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/ch01_agentic_ai_overview/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/ch01_agentic_ai_overview/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/ch02_from_llms_to_agents/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/ch02_from_llms_to_agents/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/ch02_from_llms_to_agents/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/ch03_agent_architecture/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/ch03_agent_architecture/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/ch03_agent_architecture/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/ch04_system_lifecycle_design/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part1/ch04_system_lifecycle_design/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part1/ch04_system_lifecycle_design/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/ch05_prompt_instruction_hierarchies/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/ch05_prompt_instruction_hierarchies/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/ch05_prompt_instruction_hierarchies/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/ch06_context_structured_outputs/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/ch06_context_structured_outputs/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/ch06_context_structured_outputs/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/ch07_model_routing_contracts/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/ch07_model_routing_contracts/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/ch07_model_routing_contracts/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/ch08_foundation_model_reasoning/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part2/ch08_foundation_model_reasoning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part2/ch08_foundation_model_reasoning/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch09_task_decomposition_planning/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch09_task_decomposition_planning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch09_task_decomposition_planning/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch10_iterative_reasoning_revision/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch10_iterative_reasoning_revision/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch10_iterative_reasoning_revision/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch11_tool_discovery_calling/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch11_tool_discovery_calling/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch11_tool_discovery_calling/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch12_action_execution/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch12_action_execution/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch12_action_execution/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch13_action_traces_recovery/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part3/ch13_action_traces_recovery/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part3/ch13_action_traces_recovery/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/ch14_state_working_memory_context/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/ch14_state_working_memory_context/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/ch14_state_working_memory_context/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/ch15_long_term_memory/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/ch15_long_term_memory/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/ch15_long_term_memory/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/ch16_retrieval_knowledge_agents/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/ch16_retrieval_knowledge_agents/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/ch16_retrieval_knowledge_agents/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/ch17_reflection_adaptation/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part4/ch17_reflection_adaptation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part4/ch17_reflection_adaptation/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/ch18_multi_agent_roles/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/ch18_multi_agent_roles/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/ch18_multi_agent_roles/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/ch19_multi_agent_communication/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/ch19_multi_agent_communication/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/ch19_multi_agent_communication/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/ch20_collective_reasoning/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/ch20_collective_reasoning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/ch20_collective_reasoning/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/ch21_perception_environment/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part5/ch21_perception_environment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part5/ch21_perception_environment/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/ch22_orchestration_runtime/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/ch22_orchestration_runtime/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/ch22_orchestration_runtime/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/ch23_sessions_events_state/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/ch23_sessions_events_state/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/ch23_sessions_events_state/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/ch24_streaming_interrupts/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/ch24_streaming_interrupts/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/ch24_streaming_interrupts/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/ch25_multimodal_realtime/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part6/ch25_multimodal_realtime/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part6/ch25_multimodal_realtime/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch26_evaluation_methods/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch26_evaluation_methods/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch26_evaluation_methods/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch27_benchmarking_capacity/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch27_benchmarking_capacity/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch27_benchmarking_capacity/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch28_reliability_failure/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch28_reliability_failure/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch28_reliability_failure/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch29_security_safety_alignment/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch29_security_safety_alignment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch29_security_safety_alignment/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch30_production_governance/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part7/ch30_production_governance/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part7/ch30_production_governance/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch31_software_knowledge_work/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch31_software_knowledge_work/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch31_software_knowledge_work/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch32_education_healthcare_finance/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch32_education_healthcare_finance/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch32_education_healthcare_finance/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch33_enterprise_adoption/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch33_enterprise_adoption/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch33_enterprise_adoption/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch34_capstone_reference_architectures/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch34_capstone_reference_architectures/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch34_capstone_reference_architectures/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch35_open_problems/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part8/ch35_open_problems/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part8/ch35_open_problems/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/ch36_reference_implementation/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/ch36_reference_implementation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/ch36_reference_implementation/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/ch37_agent_testing/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/ch37_agent_testing/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/ch37_agent_testing/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/ch38_regression_fault_injection/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/ch38_regression_fault_injection/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/ch38_regression_fault_injection/"/>
+    </url>
+    <url>
+        <loc>https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/ch39_deployment_continuous_delivery/</loc>
+        <lastmod>2026-09-09</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/en/part9/ch39_deployment_continuous_delivery/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://datascale-ai.github.io/Agentic_AI_Systems_book/part9/ch39_deployment_continuous_delivery/"/>
+    </url>
+</urlset>
