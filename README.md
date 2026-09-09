@@ -57,7 +57,7 @@ uv run mkdocs build --clean --strict
 docs/                 双语书稿与 MkDocs 页面
 ├── zh/               中文主稿：九篇、39章
 └── en/               英文翻译稿：与中文路径一一对应
-examples/             章节示例、实验和参考实现入口
+engineering_assets/   综合项目、参考实现、测试和部署资产入口
 tests/                目录、分工、配置和构建校验
 mkdocs.yml            Material 双语站点导航
 requirements-docs.txt 文档构建与测试依赖
@@ -74,7 +74,7 @@ requirements-docs.txt 文档构建与测试依赖
 
 ## 贡献流程
 
-1. 从对应 `docs/zh/partN/` 章节文件开始写作，先更新章节结构和公共资产登记。
+1. 从对应 `docs/zh/partN/` 章节文件开始写作，先更新章节结构和公共资产登记；工程代码、测试夹具和运行清单放入 `engineering_assets/`。
 2. 在本地运行 `uv run pytest` 与 `uv run mkdocs build --clean --strict`。
 3. 提交正文、图表源文件、实验卡、引用登记和可复现命令。
 4. 中文冻结后再生成对应 `docs/en/` 翻译稿，并由原主责作者完成技术确认。
