@@ -1,0 +1,43 @@
+/* Book-oriented Material theme adjustments. */
+:root {
+  --book-ink: #182230;
+  --book-muted: #637083;
+  --book-accent: #b45309;
+  --book-accent-soft: #fff7ed;
+  --book-line: #e5e7eb;
+}
+
+.md-grid { max-width: 92rem; }
+.md-content { max-width: 52rem; }
+.md-content__inner { padding-bottom: 4rem; }
+.md-typeset { font-size: .78rem; line-height: 1.85; color: var(--book-ink); }
+.md-typeset h1 { font-size: 2.05rem; letter-spacing: -.025em; line-height: 1.2; margin-bottom: 1.4rem; }
+.md-typeset h2 { font-size: 1.42rem; margin-top: 2.6rem; padding-bottom: .35rem; border-bottom: 1px solid var(--book-line); }
+.md-typeset h3 { font-size: 1.08rem; margin-top: 2rem; }
+.md-typeset h1, .md-typeset h2, .md-typeset h3 { font-weight: 700; }
+.md-typeset p { margin: .85em 0; }
+.md-typeset a { color: #9a3412; }
+.md-typeset blockquote { margin: 1.5rem 0; padding: .8rem 1.1rem; border-left: .25rem solid var(--book-accent); background: var(--book-accent-soft); color: #4b5563; }
+.md-typeset table:not(.highlight) { display: table; width: 100%; border: 1px solid var(--book-line); border-radius: .35rem; overflow: hidden; font-size: .72rem; }
+.md-typeset table:not(.highlight) th { background: #f8fafc; color: #334155; font-weight: 700; }
+.md-typeset table:not(.highlight) td, .md-typeset table:not(.highlight) th { border-bottom: 1px solid var(--book-line); }
+.md-typeset code { border-radius: .25rem; }
+.md-typeset pre > code { border-radius: .45rem; }
+.md-typeset .admonition, .md-typeset details { border-radius: .45rem; box-shadow: none; }
+.md-header { box-shadow: 0 1px 0 rgba(15, 23, 42, .08); }
+.md-tabs { background: #fff; border-bottom: 1px solid var(--book-line); color: #334155; }
+.md-tabs__link { opacity: .75; }
+.md-tabs__link--active, .md-tabs__link:hover { opacity: 1; color: var(--book-accent); }
+.md-nav__item .md-nav__link--active { color: var(--book-accent); font-weight: 700; }
+.md-sidebar__scrollwrap { scrollbar-color: #cbd5e1 transparent; }
+.md-footer { margin-top: 3rem; }
+
+/* Make the home page feel like a book cover and reading guide. */
+.md-typeset h1:first-child { max-width: 46rem; }
+.md-typeset hr { border-bottom-color: var(--book-line); }
+
+@media (max-width: 60em) {
+  .md-typeset { font-size: .75rem; }
+  .md-typeset h1 { font-size: 1.7rem; }
+  .md-content { max-width: none; }
+}
