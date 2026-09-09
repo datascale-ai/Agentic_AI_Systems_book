@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-org/Agentic_AI_Systems_book/actions/workflows/validate.yml"><img src="https://github.com/your-org/Agentic_AI_Systems_book/actions/workflows/validate.yml/badge.svg" alt="Build status"></a>
+  <a href="https://github.com/datascale-ai/Agentic_AI_Systems_book/actions/workflows/validate.yml"><img src="https://github.com/datascale-ai/Agentic_AI_Systems_book/actions/workflows/validate.yml/badge.svg" alt="Build status"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
   <img src="https://img.shields.io/badge/parts-9-orange.svg" alt="Parts">
   <img src="https://img.shields.io/badge/chapters-39-orange.svg" alt="Chapters">
