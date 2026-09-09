@@ -66,10 +66,20 @@ def test_front_matter_appendices_and_public_assets_exist():
 def test_mkdocs_config_and_python_project_metadata_are_valid():
     config = yaml.safe_load((ROOT / "mkdocs.yml").read_text(encoding="utf-8"))
     assert config["theme"]["name"] == "material"
+    assert "javascripts/extra.js" in config["extra_javascript"]
     assert config["plugins"][-1]["i18n"]["languages"][0]["locale"] == "zh"
     project = tomllib.loads((ROOT / "pyproject.toml").read_text(encoding="utf-8"))
     assert project["project"]["name"] == "agentic-ai-systems-book"
     assert project["project"]["requires-python"] == ">=3.11"
+
+
+def test_sidebar_scroll_restore_script_targets_only_primary_navigation():
+    script = (DOCS / "javascripts" / "extra.js").read_text(encoding="utf-8")
+    assert ".md-sidebar--primary .md-sidebar__scrollwrap" in script
+    assert "sessionStorage" in script
+    assert "document$.subscribe" in script
+    assert "scrollTop" in script
+    assert "sidebar.scrollTo =" in script
 
 
 def test_private_materials_are_ignored():

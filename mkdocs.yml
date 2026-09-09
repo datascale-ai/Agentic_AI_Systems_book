@@ -1,7 +1,9 @@
 site_name: 智能体人工智能系统：从大语言模型到现实世界智能体
-site_url: https://example.github.io/Agentic_AI_Systems_book/
+site_url: https://datascale-ai.github.io/Agentic_AI_Systems_book/
 site_description: 从大语言模型到现实世界智能体的系统工程书稿
 site_author: Agentic AI Systems Book Contributors
+repo_name: GitHub
+repo_url: https://github.com/datascale-ai/Agentic_AI_Systems_book/tree/main
 
 # Planning artifacts live outside docs/ and are ignored by Git; only public manuscript
 # sources under docs/ are included in the site.
@@ -9,6 +11,9 @@ site_author: Agentic AI Systems Book Contributors
 theme:
   name: material
   language: zh
+  font:
+    text: Roboto
+    code: Roboto Mono
   features:
     - navigation.sections
     - navigation.expand
@@ -18,18 +23,19 @@ theme:
     - toc.follow
     - search.suggest
     - content.code.copy
+    - navigation.tracking
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
-      accent: deep orange
+      accent: red
       toggle:
         icon: material/weather-sunny
         name: 切换至夜间模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: deep orange
+      accent: red
       toggle:
         icon: material/weather-night
         name: 切换至日间模式
@@ -47,14 +53,10 @@ plugins:
           build: true
           site_name: 智能体人工智能系统：从大语言模型到现实世界智能体
           nav:
-            - 智能体人工智能系统: index.md
-            - 读者指南与引言: reader_guide.md
+            - 全书导览: index.md
+            - 引言: reader_guide.md
             - 缩略语与符号表: abbreviations.md
             - 作者信息: authors.md
-            - 图表目录: figures_tables.md
-            - 公共资产与合稿协议: asset_contract.md
-            - 前言: preface.md
-            - 致谢: acknowledgements.md
             - 第一篇：智能体人工智能系统基础:
                 - 本篇目录: part1/index.md
                 - 第1章：智能体人工智能概论: part1/ch01_agentic_ai_overview.md
@@ -129,14 +131,10 @@ plugins:
           theme:
             language: en
           nav:
-            - Agentic AI Systems: index.md
-            - Reader Guide and Introduction: reader_guide.md
+            - Book Overview: index.md
+            - Introduction: reader_guide.md
             - Abbreviations and Symbols: abbreviations.md
             - Author Information: authors.md
-            - List of Figures and Tables: figures_tables.md
-            - Shared Asset and Integration Contract: asset_contract.md
-            - Preface: preface.md
-            - Acknowledgements: acknowledgements.md
             - "Part I: Agentic AI Systems Foundations":
                 - Part overview: part1/index.md
                 - "Chapter 1: Introduction to Agentic AI": part1/ch01_agentic_ai_overview.md
@@ -207,6 +205,9 @@ plugins:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
 
 markdown_extensions:
   - admonition

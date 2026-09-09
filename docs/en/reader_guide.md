@@ -1,6 +1,6 @@
-# Reader Guide and Introduction
+# Introduction
 
-Introduce the path from models to systems and production practice, including dependencies among the nine parts.
+This introduction explains the intended readers, reading paths, dependencies among the nine parts, and the progression from models to systems and production practice. The former reader guide and preface overlap in purpose, so the current scaffold keeps one introduction entry; a separate preface can be restored after the authorial front matter is complete.
 
 ## Writing placeholder
 

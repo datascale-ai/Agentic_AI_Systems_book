@@ -1,6 +1,6 @@
-# Agentic AI Systems
+# Agentic AI Systems: From Large Language Models to Real-World Agents
 
-## From Large Language Models to Real-World Agents
+## Book Overview
 
 This site is the English translation workspace for a practical and research-oriented book on agentic AI systems. It follows the Chinese source manuscript and covers model interaction, planning, tools, memory, multi-agent systems, runtimes, evaluation, governance, testing, and deployment practice.
 
