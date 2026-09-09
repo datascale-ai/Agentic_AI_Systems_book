@@ -1,0 +1,51 @@
+# macOS and editor files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python and virtual environments
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+ENV/
+.env
+build/
+dist/
+
+# MkDocs output and local reports
+site/
+smoke_reports/
+htmlcov/
+.coverage
+coverage.xml
+
+# Local book planning and generated editorial artifacts
+private_materials/
+editorial/
+tmp/
+output/
+outputs/
+
+# Source proposals and rendered planning documents
+*.pdf
+*.docx
+
+# Local dependency and tool caches
+.cache/
+.uv-cache/
+.ipynb_checkpoints/
+# Internal planning documents accidentally placed under public docs
+docs/superpowers/
+学生任务单/

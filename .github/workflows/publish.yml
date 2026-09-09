@@ -1,0 +1,28 @@
+name: publish-book-site
+
+on:
+  workflow_run:
+    workflows: [validate-book]
+    types: [completed]
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha }}
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install documentation dependencies
+        run: python -m pip install --upgrade pip && python -m pip install -r requirements-docs.txt
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force

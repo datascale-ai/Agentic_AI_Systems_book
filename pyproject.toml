@@ -1,0 +1,29 @@
+[project]
+name = "agentic-ai-systems-book"
+version = "0.1.0"
+description = "Writing scaffold and documentation site for Agentic AI Systems"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { file = "LICENSE" }
+authors = [{ name = "Agentic AI Systems Book Contributors" }]
+dependencies = [
+  "mkdocs==1.6.1",
+  "mkdocs-material==9.5.39",
+  "mkdocs-glightbox==0.4.0",
+  "mkdocs-static-i18n[material]==1.2.3",
+  "pymdown-extensions==10.11.2",
+  "Pygments<2.20",
+]
+
+[project.optional-dependencies]
+test = [
+  "pytest==8.3.5",
+  "pyyaml==6.0.2",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.uv]
+default-groups = []
